@@ -1,0 +1,183 @@
+"objeknya SMKN 4"
+
+Inisial : 42
+
+Open node : 41
+
+price : 0.833
+
+Array (
+[0] => Route Object ( 
+[node] => Array ( 
+		[0] => Array ( 
+			[id] => 42 
+			[x] => -6.941543707928581 
+			[y] => 107.62852873653173 
+			[info] => SMKN 4 Bandung 
+			[status] => object 
+			[price] => 15000 
+		) 
+		[1] => Array ( 
+			[id] => 41 
+			[x] => -6.9415477017510945 
+			[y] => 107.62851431965828 
+			[info] => ST.Hall-G.Bage 42 
+			[status] => 
+			track [price] => 0 
+		) ) 
+	[index] => 2 
+	[distance] => 0.0016653146 	
+	[price] => 0.833 
+	) 
+)
+
+Open node : 43
+
+price : 32.585
+
+distance : 0.0651694632
+
+Array ( 
+[0] => Route Object ( 
+	[node] => Array ( 
+		[0] => Array ( 
+			[id] => 42 
+			[x] => -6.941543707928581 
+			[y] => 107.62852873653173 
+			[info] => SMKN 4 Bandung 
+			[status] => object 
+			[price] => 15000 
+		) 
+		[1] => Array ( 
+			[id] => 41 
+			[x] => -6.9415477017510945 
+			[y] => 107.62851431965828 
+			[info] => ST.Hall-G.Bage 42 
+			[status] => track 
+			[price] => 0
+		)
+	) 
+	[index] => 2 
+	[distance] => 0.0016653146 
+	[price] => 0.833 
+	)
+[1] => Route Object ( 
+	[node] => Array ( 
+		[0] => Array ( 
+			[id] => 42 
+			[x] => -6.941543707928581 
+			[y] => 107.62852873653173 
+			[info] => SMKN 4 Bandung 
+			[status] => object 
+			[price] => 15000 
+		) 
+		[1] => Array ( 
+			[id] => 43 
+			[x] => -6.942072223479245 
+			[y] => 107.62827694416046 
+			[info] => ST.Hall-G.Bage 43 
+			[status] => track 
+			[price] => 0 
+		) 
+	) 
+	[index] => 2 
+	[distance] => 0.0651694632 
+	[price] => 32.585 
+	) 
+)
+
+hasilnya
+Array ( 
+	[0] => Route Object ( 	
+		[node] => Array ( 
+			[0] => Array ( 
+				[id] => 42 
+				[x] => -6.941543707928581 
+				[y] => 107.62852873653173 
+				[info] => SMKN 4 Bandung 
+				[status] => object 
+				[price] => 15000 
+			) 
+			[1] => Array ( 
+				[id] => 43 
+				[x] => -6.942072223479245 
+				[y] => 107.62827694416046 
+				[info] => ST.Hall-G.Bage 43 
+				[status] => track 
+				[price] => 0 
+			)
+		)
+	[index] => 2 
+	[distance] => 0.0651694632 
+	[price] => 32.585
+	)
+	[1] => Route Object ( 
+		[node] => Array ( 
+			[0] => Array ( 
+				[id] => 42 
+				[x] => -6.941543707928581 
+				[y] => 107.62852873653173 
+				[info] => SMKN 4 Bandung 
+				[status] => object 
+				[price] => 15000 
+			) 
+			[1] => Array ( 
+				[id] => 72 
+				[x] => -6.941690148065041 
+				[y] => 107.62847810983658 
+				[info] => G. Bage - ST.Hall 18 
+				[status] => track 
+				[price] => 0 
+			) 	
+		) 
+	[index] => 2 
+	[distance] => 0.0172482588 
+	[price] => 8.624 
+	) 
+	[2] => Route Object ( 
+		[node] => Array ( 
+			[0] => Array ( 
+				[id] => 42 
+				[x] => -6.941543707928581 
+				[y] => 107.62852873653173 
+				[info] => SMKN 4 Bandung 
+				[status] => object 
+				[price] => 15000 
+			) 
+			[1] => Array ( 
+				[id] => 73 
+				[x] => -6.9415470361140015 
+				[y] => 107.62851364910603 
+				[info] => G. Bage - ST.Hall 19 
+				[status] => track 
+				[price] => 0 
+			) 
+		) 
+	[index] => 2 
+	[distance] => 0.0017198956 
+	[price] => 0.86 
+	) 
+	[3] => Route Object ( 
+	[node] => Array ( 
+		[0] => Array ( 
+			[id] => 42 
+			[x] => -6.941543707928581 
+			[y] => 107.62852873653173 
+			[info] => SMKN 4 Bandung 
+			[status] => object 
+			[price] => 15000 
+		) 
+		[1] => Array ( 
+			[id] => 41 
+			[x] => -6.9415477017510945 
+			[y] => 107.62851431965828 
+			[info] => ST.Hall-G.Bage 42 
+			[status] => track 
+			[price] => 0 
+		) 
+	) 
+	[index] => 2 
+	[distance] => 0.0016653146 
+	[price] => 0.833 
+	) 
+) 

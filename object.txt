@@ -1,0 +1,2743 @@
+{
+    "nodes": [
+        {
+            "id": "0",
+            "x": "-6.916050449118474",
+            "y": "107.60261088609695",
+            "info": "ST.Hall-G.Bage 1",
+            "status": "track",
+            "price": "0",
+            "jenis": "angkot"
+        },
+        {
+            "id": "1",
+            "x": "-6.915837433684856",
+            "y": "107.60446161031723",
+            "info": "ST.Hall-G.Bage 2",
+            "status": "track",
+            "price": "0",
+            "jenis": "angkot"
+        },
+        {
+            "id": "2",
+            "x": "-6.923029314115952",
+            "y": "107.60396003723145",
+            "info": "ST.Hall-G.Bage 3",
+            "status": "track",
+            "price": "0",
+            "jenis": "angkot"
+        },
+        {
+            "id": "3",
+            "x": "-6.92342604924019",
+            "y": "107.60629892349243",
+            "info": "ST.Hall-G.Bage 4",
+            "status": "track",
+            "price": "0",
+            "jenis": "angkot"
+        },
+        {
+            "id": "4",
+            "x": "-6.922400927599016",
+            "y": "107.60639280080795",
+            "info": "ST.Hall-G.Bage 5",
+            "status": "track",
+            "price": "0",
+            "jenis": "angkot"
+        },
+        {
+            "id": "5",
+            "x": "-6.922562018290115",
+            "y": "107.60755956172943",
+            "info": "ST.Hall-G.Bage 6",
+            "status": "track",
+            "price": "0",
+            "jenis": "angkot"
+        },
+        {
+            "id": "6",
+            "x": "-6.921479647548883",
+            "y": "107.607661485672",
+            "info": "ST.Hall-G.Bage 7",
+            "status": "track",
+            "price": "0",
+            "jenis": "angkot"
+        },
+        {
+            "id": "7",
+            "x": "-6.9212080559770195",
+            "y": "107.60753139853477",
+            "info": "ST.Hall-G.Bage 8",
+            "status": "track",
+            "price": "0",
+            "jenis": "angkot"
+        },
+        {
+            "id": "8",
+            "x": "-6.92107226013247",
+            "y": "107.60644644498825",
+            "info": "ST.Hall-G.Bage 9",
+            "status": "track",
+            "price": "0",
+            "jenis": "angkot"
+        },
+        {
+            "id": "9",
+            "x": "-6.918922154054773",
+            "y": "107.60664626955986",
+            "info": "ST.Hall-G.Bage 10",
+            "status": "track",
+            "price": "0",
+            "jenis": "angkot"
+        },
+        {
+            "id": "10",
+            "x": "-6.919184427580586",
+            "y": "107.60787069797516",
+            "info": "ST.Hall-G.Bage 11",
+            "status": "track",
+            "price": "0",
+            "jenis": "angkot"
+        },
+        {
+            "id": "11",
+            "x": "-6.9196211060211485",
+            "y": "107.608562707901",
+            "info": "ST.Hall-G.Bage 12",
+            "status": "track",
+            "price": "0",
+            "jenis": "angkot"
+        },
+        {
+            "id": "12",
+            "x": "-6.919738263582817",
+            "y": "107.61001110076904",
+            "info": "ST.Hall-G.Bage 13",
+            "status": "track",
+            "price": "0",
+            "jenis": "angkot"
+        },
+        {
+            "id": "13",
+            "x": "-6.92116811602679",
+            "y": "107.6177653670311",
+            "info": "ST.Hall-G.Bage 14",
+            "status": "track",
+            "price": "0",
+            "jenis": "angkot"
+        },
+        {
+            "id": "14",
+            "x": "-6.920410587664366",
+            "y": "107.61785253882408",
+            "info": "ST.Hall-G.Bage 15",
+            "status": "track",
+            "price": "0",
+            "jenis": "angkot"
+        },
+        {
+            "id": "15",
+            "x": "-6.921298586518335",
+            "y": "107.61944442987442",
+            "info": "ST.Hall-G.Bage 16",
+            "status": "track",
+            "price": "0",
+            "jenis": "angkot"
+        },
+        {
+            "id": "16",
+            "x": "-6.92225980678313",
+            "y": "107.61782437562943",
+            "info": "ST.Hall-G.Bage 17",
+            "status": "track",
+            "price": "0",
+            "jenis": "angkot"
+        },
+        {
+            "id": "17",
+            "x": "-6.9224488554136805",
+            "y": "107.61782303452492",
+            "info": "ST.Hall-G.Bage 18",
+            "status": "track",
+            "price": "0",
+            "jenis": "angkot"
+        },
+        {
+            "id": "18",
+            "x": "-6.922620596709594",
+            "y": "107.61954501271248",
+            "info": "ST.Hall-G.Bage 19",
+            "status": "track",
+            "price": "0",
+            "jenis": "angkot"
+        },
+        {
+            "id": "19",
+            "x": "-6.922711126979966",
+            "y": "107.6201243698597",
+            "info": "ST.Hall-G.Bage 20",
+            "status": "track",
+            "price": "0",
+            "jenis": "angkot"
+        },
+        {
+            "id": "20",
+            "x": "-6.923001356259042",
+            "y": "107.61988162994385",
+            "info": "ST.Hall-G.Bage 21",
+            "status": "track",
+            "price": "0",
+            "jenis": "angkot"
+        },
+        {
+            "id": "21",
+            "x": "-6.924286084639321",
+            "y": "107.61988967657089",
+            "info": "ST.Hall-G.Bage 22",
+            "status": "track",
+            "price": "0",
+            "jenis": "angkot"
+        },
+        {
+            "id": "22",
+            "x": "-6.925371111582655",
+            "y": "107.61975556612015",
+            "info": "ST.Hall-G.Bage 23",
+            "status": "track",
+            "price": "0",
+            "jenis": "angkot"
+        },
+        {
+            "id": "23",
+            "x": "-6.926404214671849",
+            "y": "107.62309089303017",
+            "info": "ST.Hall-G.Bage 24",
+            "status": "track",
+            "price": "0",
+            "jenis": "angkot"
+        },
+        {
+            "id": "24",
+            "x": "-6.926424184425757",
+            "y": "107.62315660715103",
+            "info": "ST.Hall-G.Bage 25",
+            "status": "track",
+            "price": "0",
+            "jenis": "angkot"
+        },
+        {
+            "id": "25",
+            "x": "-6.928405179811545",
+            "y": "107.62241899967194",
+            "info": "ST.Hall-G.Bage 26",
+            "status": "track",
+            "price": "0",
+            "jenis": "angkot"
+        },
+        {
+            "id": "26",
+            "x": "-6.929494191202924",
+            "y": "107.62652814388275",
+            "info": "ST.Hall-G.Bage 27",
+            "status": "track",
+            "price": "0",
+            "jenis": "angkot"
+        },
+        {
+            "id": "27",
+            "x": "-6.9326467185535785",
+            "y": "107.62575566768646",
+            "info": "ST.Hall-G.Bage 28",
+            "status": "track",
+            "price": "0",
+            "jenis": "angkot"
+        },
+        {
+            "id": "28",
+            "x": "-6.934047243364351",
+            "y": "107.63099670410156",
+            "info": "ST.Hall-G.Bage 29",
+            "status": "track",
+            "price": "0",
+            "jenis": "angkot"
+        },
+        {
+            "id": "29",
+            "x": "-6.934111145537778",
+            "y": "107.63144463300705",
+            "info": "ST.Hall-G.Bage 30",
+            "status": "track",
+            "price": "0",
+            "jenis": "angkot"
+        },
+        {
+            "id": "30",
+            "x": "-6.934293532943415",
+            "y": "107.63261273503304",
+            "info": "ST.Hall-G.Bage 31",
+            "status": "track",
+            "price": "0",
+            "jenis": "angkot"
+        },
+        {
+            "id": "31",
+            "x": "-6.934776792662195",
+            "y": "107.63252019882202",
+            "info": "ST.Hall-G.Bage 32",
+            "status": "track",
+            "price": "0",
+            "jenis": "angkot"
+        },
+        {
+            "id": "32",
+            "x": "-6.935048376418799",
+            "y": "107.63245582580566",
+            "info": "ST.Hall-G.Bage 33",
+            "status": "track",
+            "price": "0",
+            "jenis": "angkot"
+        },
+        {
+            "id": "33",
+            "x": "-6.9362065995052316",
+            "y": "107.63232171535492",
+            "info": "ST.Hall-G.Bage 34",
+            "status": "track",
+            "price": "0",
+            "jenis": "angkot"
+        },
+        {
+            "id": "34",
+            "x": "-6.936944133181685",
+            "y": "107.63216614723206",
+            "info": "ST.Hall-G.Bage 35",
+            "status": "track",
+            "price": "0",
+            "jenis": "angkot"
+        },
+        {
+            "id": "35",
+            "x": "-6.937766867941564",
+            "y": "107.6318308711052",
+            "info": "ST.Hall-G.Bage 36",
+            "status": "track",
+            "price": "0",
+            "jenis": "angkot"
+        },
+        {
+            "id": "36",
+            "x": "-6.938464460689437",
+            "y": "107.63153314590454",
+            "info": "ST.Hall-G.Bage 37",
+            "status": "track",
+            "price": "0",
+            "jenis": "angkot"
+        },
+        {
+            "id": "37",
+            "x": "-6.939617350255163",
+            "y": "107.63095915317535",
+            "info": "ST.Hall-G.Bage 38",
+            "status": "track",
+            "price": "0",
+            "jenis": "angkot"
+        },
+        {
+            "id": "38",
+            "x": "-6.938859851539885",
+            "y": "107.62930691242218",
+            "info": "ST.Hall-G.Bage 39",
+            "status": "track",
+            "price": "0",
+            "jenis": "angkot"
+        },
+        {
+            "id": "39",
+            "x": "-6.940730298704744",
+            "y": "107.62860953807831",
+            "info": "ST.Hall-G.Bage 40",
+            "status": "track",
+            "price": "0",
+            "jenis": "angkot"
+        },
+        {
+            "id": "40",
+            "x": "-6.941361323331271",
+            "y": "107.62854784727097",
+            "info": "ST.Hall-G.Bage 41",
+            "status": "track",
+            "price": "0",
+            "jenis": "angkot"
+        },
+        {
+            "id": "41",
+            "x": "-6.9415477017510945",
+            "y": "107.62851431965828",
+            "info": "ST.Hall-G.Bage 42",
+            "status": "track",
+            "price": "0",
+            "jenis": "angkot"
+        },
+        {
+            "id": "42",
+            "x": "-6.941543707928581",
+            "y": "107.62852873653173",
+            "info": "SMKN 4 Bandung",
+            "status": "object",
+            "price": "15000"
+        },
+        {
+            "id": "43",
+            "x": "-6.942072223479245",
+            "y": "107.62827694416046",
+            "info": "ST.Hall-G.Bage 43",
+            "status": "track",
+            "price": "0",
+            "jenis": "angkot"
+        },
+        {
+            "id": "44",
+            "x": "-6.942391728813943",
+            "y": "107.62789070606232",
+            "info": "ST.Hall-G.Bage 44",
+            "status": "track",
+            "price": "0",
+            "jenis": "angkot"
+        },
+        {
+            "id": "45",
+            "x": "-6.94764223539709",
+            "y": "107.63300031423569",
+            "info": "ST.Hall-G.Bage 45",
+            "status": "track",
+            "price": "0",
+            "jenis": "angkot"
+        },
+        {
+            "id": "46",
+            "x": "-6.947885855349531",
+            "y": "107.63341337442398",
+            "info": "ST.Hall-G.Bage 46",
+            "status": "track",
+            "price": "0",
+            "jenis": "angkot"
+        },
+        {
+            "id": "47",
+            "x": "-6.947885855349531",
+            "y": "107.63365879654884",
+            "info": "ST.Hall-G.Bage 47",
+            "status": "track",
+            "price": "0",
+            "jenis": "angkot"
+        },
+        {
+            "id": "48",
+            "x": "-6.9451301468875375",
+            "y": "107.64264017343521",
+            "info": "ST.Hall-G.Bage 48",
+            "status": "track",
+            "price": "0",
+            "jenis": "angkot"
+        },
+        {
+            "id": "49",
+            "x": "-6.944983707821792",
+            "y": "107.64296472072601",
+            "info": "ST.Hall-G.Bage 49",
+            "status": "track",
+            "price": "0",
+            "jenis": "angkot"
+        },
+        {
+            "id": "50",
+            "x": "-6.939655957362669",
+            "y": "107.6598009467125",
+            "info": "ST.Hall-G.Bage 50",
+            "status": "track",
+            "price": "0",
+            "jenis": "angkot"
+        },
+        {
+            "id": "51",
+            "x": "-6.9392712174257785",
+            "y": "107.66153633594513",
+            "info": "ST.Hall-G.Bage 51",
+            "status": "track",
+            "price": "0",
+            "jenis": "angkot"
+        },
+        {
+            "id": "52",
+            "x": "-6.938935734594421",
+            "y": "107.66407907009125",
+            "info": "ST.Hall-G.Bage 52",
+            "status": "track",
+            "price": "0",
+            "jenis": "angkot"
+        },
+        {
+            "id": "53",
+            "x": "-6.936499483052925",
+            "y": "107.6971909403801",
+            "info": "ST.Hall-G.Bage 53",
+            "status": "track",
+            "price": "0",
+            "jenis": "angkot"
+        },
+        {
+            "id": "54",
+            "x": "-6.936496820476038",
+            "y": "107.69719496369362",
+            "info": "G. Bage - ST.Hall 1",
+            "status": "track",
+            "price": "0",
+            "jenis": "angkot"
+        },
+        {
+            "id": "55",
+            "x": "-6.93674976521298",
+            "y": "107.69716411828995",
+            "info": "G. Bage - ST.Hall 2",
+            "status": "track",
+            "price": "0",
+            "jenis": "angkot"
+        },
+        {
+            "id": "56",
+            "x": "-6.937037323275219",
+            "y": "107.69338756799698",
+            "info": "G. Bage - ST.Hall 2",
+            "status": "track",
+            "price": "0",
+            "jenis": "angkot"
+        },
+        {
+            "id": "57",
+            "x": "-6.937183764813514",
+            "y": "107.69189894199371",
+            "info": "G. Bage - ST.Hall 3",
+            "status": "track",
+            "price": "0",
+            "jenis": "angkot"
+        },
+        {
+            "id": "58",
+            "x": "-6.937396770606095",
+            "y": "107.6893401145935",
+            "info": "G. Bage - ST.Hall 4",
+            "status": "track",
+            "price": "0",
+            "jenis": "angkot"
+        },
+        {
+            "id": "59",
+            "x": "-6.9392432605322965",
+            "y": "107.66408443450928",
+            "info": "G. Bage - ST.Hall 5",
+            "status": "track",
+            "price": "0",
+            "jenis": "angkot"
+        },
+        {
+            "id": "60",
+            "x": "-6.939353756815887",
+            "y": "107.66300618648529",
+            "info": "G. Bage - ST.Hall 6",
+            "status": "track",
+            "price": "0",
+            "jenis": "angkot"
+        },
+        {
+            "id": "61",
+            "x": "-6.939556111388496",
+            "y": "107.66155242919922",
+            "info": "G. Bage - ST.Hall 7",
+            "status": "track",
+            "price": "0",
+            "jenis": "angkot"
+        },
+        {
+            "id": "62",
+            "x": "-6.93996348283004",
+            "y": "107.6597660779953",
+            "info": "G. Bage - ST.Hall 8",
+            "status": "track",
+            "price": "0",
+            "jenis": "angkot"
+        },
+        {
+            "id": "63",
+            "x": "-6.941497113330152",
+            "y": "107.65471011400223",
+            "info": "G. Bage - ST.Hall 9",
+            "status": "track",
+            "price": "0",
+            "jenis": "angkot"
+        },
+        {
+            "id": "64",
+            "x": "-6.945299217388558",
+            "y": "107.64285743236542",
+            "info": "G. Bage - ST.Hall 10",
+            "status": "track",
+            "price": "0",
+            "jenis": "angkot"
+        },
+        {
+            "id": "65",
+            "x": "-6.945301879915651",
+            "y": "107.64269381761551",
+            "info": "G. Bage - ST.Hall 11",
+            "status": "track",
+            "price": "0",
+            "jenis": "angkot"
+        },
+        {
+            "id": "66",
+            "x": "-6.945847697650666",
+            "y": "107.64092087745667",
+            "info": "G. Bage - ST.Hall 12",
+            "status": "track",
+            "price": "0",
+            "jenis": "angkot"
+        },
+        {
+            "id": "67",
+            "x": "-6.948071565556355",
+            "y": "107.63339929282665",
+            "info": "G. Bage - ST.Hall 13",
+            "status": "track",
+            "price": "0",
+            "jenis": "angkot"
+        },
+        {
+            "id": "68",
+            "x": "-6.942512541712084",
+            "y": "107.62803219258785",
+            "info": "G. Bage - ST.Hall 14",
+            "status": "track",
+            "price": "0",
+            "jenis": "angkot"
+        },
+        {
+            "id": "69",
+            "x": "-6.942381411457559",
+            "y": "107.62788400053978",
+            "info": "G. Bage - ST.Hall 15",
+            "status": "track",
+            "price": "0",
+            "jenis": "angkot"
+        },
+        {
+            "id": "70",
+            "x": "-6.942054916934098",
+            "y": "107.62825883924961",
+            "info": "G. Bage - ST.Hall 16",
+            "status": "track",
+            "price": "0",
+            "jenis": "angkot"
+        },
+        {
+            "id": "71",
+            "x": "-6.941781340308812",
+            "y": "107.62843854725361",
+            "info": "G. Bage - ST.Hall 17",
+            "status": "track",
+            "price": "0",
+            "jenis": "angkot"
+        },
+        {
+            "id": "72",
+            "x": "-6.941690148065041",
+            "y": "107.62847810983658",
+            "info": "G. Bage - ST.Hall 18",
+            "status": "track",
+            "price": "0",
+            "jenis": "angkot"
+        },
+        {
+            "id": "73",
+            "x": "-6.9415470361140015",
+            "y": "107.62851364910603",
+            "info": "G. Bage - ST.Hall 19",
+            "status": "track",
+            "price": "0",
+            "jenis": "angkot"
+        },
+        {
+            "id": "74",
+            "x": "-6.940728301790027",
+            "y": "107.62860283255577",
+            "info": "G. Bage - ST.Hall 20",
+            "status": "track",
+            "price": "0",
+            "jenis": "angkot"
+        },
+        {
+            "id": "75",
+            "x": "-6.938861182821656",
+            "y": "107.62929417192936",
+            "info": "G. Bage - ST.Hall 21",
+            "status": "track",
+            "price": "0",
+            "jenis": "angkot"
+        },
+        {
+            "id": "76",
+            "x": "-6.9378447480992085",
+            "y": "107.6272040605545",
+            "info": "G. Bage - ST.Hall 22",
+            "status": "track",
+            "price": "0",
+            "jenis": "angkot"
+        },
+        {
+            "id": "77",
+            "x": "-6.937266304569577",
+            "y": "107.62645304203033",
+            "info": "G. Bage - ST.Hall 23",
+            "status": "track",
+            "price": "0",
+            "jenis": "angkot"
+        },
+        {
+            "id": "78",
+            "x": "-6.93638232965571",
+            "y": "107.62554109096527",
+            "info": "G. Bage - ST.Hall 24",
+            "status": "track",
+            "price": "0",
+            "jenis": "angkot"
+        },
+        {
+            "id": "79",
+            "x": "-6.935494359208813",
+            "y": "107.62622505426407",
+            "info": "G. Bage - ST.Hall 25",
+            "status": "track",
+            "price": "0",
+            "jenis": "angkot"
+        },
+        {
+            "id": "80",
+            "x": "-6.934630350375516",
+            "y": "107.62670919299126",
+            "info": "G. Bage - ST.Hall 26",
+            "status": "track",
+            "price": "0",
+            "jenis": "angkot"
+        },
+        {
+            "id": "81",
+            "x": "-6.933702437737358",
+            "y": "107.62702032923698",
+            "info": "G. Bage - ST.Hall 27",
+            "status": "track",
+            "price": "0",
+            "jenis": "angkot"
+        },
+        {
+            "id": "82",
+            "x": "-6.933053430322521",
+            "y": "107.62718863785267",
+            "info": "G. Bage - ST.Hall 28",
+            "status": "track",
+            "price": "0",
+            "jenis": "angkot"
+        },
+        {
+            "id": "83",
+            "x": "-6.932607445221797",
+            "y": "107.62565240263939",
+            "info": "G. Bage - ST.Hall 29",
+            "status": "track",
+            "price": "0",
+            "jenis": "angkot"
+        },
+        {
+            "id": "84",
+            "x": "-6.92945991001472",
+            "y": "107.62644164264202",
+            "info": "G. Bage - ST.Hall 30",
+            "status": "track",
+            "price": "0",
+            "jenis": "angkot"
+        },
+        {
+            "id": "85",
+            "x": "-6.928402517188921",
+            "y": "107.6224136352539",
+            "info": "G. Bage - ST.Hall 31",
+            "status": "track",
+            "price": "0",
+            "jenis": "angkot"
+        },
+        {
+            "id": "86",
+            "x": "-6.926410871256574",
+            "y": "107.62315392494202",
+            "info": "G. Bage - ST.Hall 32",
+            "status": "track",
+            "price": "0",
+            "jenis": "angkot"
+        },
+        {
+            "id": "87",
+            "x": "-6.925311202184627",
+            "y": "107.62367025017738",
+            "info": "G. Bage - ST.Hall 33",
+            "status": "track",
+            "price": "0",
+            "jenis": "angkot"
+        },
+        {
+            "id": "88",
+            "x": "-6.925144787150159",
+            "y": "107.6237265765667",
+            "info": "G. Bage - ST.Hall 34",
+            "status": "track",
+            "price": "0",
+            "jenis": "angkot"
+        },
+        {
+            "id": "89",
+            "x": "-6.925126148662641",
+            "y": "107.62382984161377",
+            "info": "G. Bage - ST.Hall 35",
+            "status": "track",
+            "price": "0",
+            "jenis": "angkot"
+        },
+        {
+            "id": "90",
+            "x": "-6.922190577688203",
+            "y": "107.62473911046982",
+            "info": "G. Bage - ST.Hall 36",
+            "status": "track",
+            "price": "0",
+            "jenis": "angkot"
+        },
+        {
+            "id": "91",
+            "x": "-6.922012179589097",
+            "y": "107.62478202581406",
+            "info": "G. Bage - ST.Hall 37",
+            "status": "track",
+            "price": "0",
+            "jenis": "angkot"
+        },
+        {
+            "id": "92",
+            "x": "-6.921548876748093",
+            "y": "107.62469351291656",
+            "info": "G. Bage - ST.Hall 38",
+            "status": "track",
+            "price": "0",
+            "jenis": "angkot"
+        },
+        {
+            "id": "93",
+            "x": "-6.91881364999008",
+            "y": "107.62424625456333",
+            "info": "G. Bage - ST.Hall 39",
+            "status": "track",
+            "price": "0",
+            "jenis": "angkot"
+        },
+        {
+            "id": "94",
+            "x": "-6.922272787237299",
+            "y": "107.61779118329287",
+            "info": "G. Bage - ST.Hall 40",
+            "status": "track",
+            "price": "0",
+            "jenis": "angkot"
+        },
+        {
+            "id": "95",
+            "x": "-6.922244829335569",
+            "y": "107.61774390935898",
+            "info": "G. Bage - ST.Hall 41",
+            "status": "track",
+            "price": "0",
+            "jenis": "angkot"
+        },
+        {
+            "id": "96",
+            "x": "-6.9222481576572825",
+            "y": "107.61766646057367",
+            "info": "G. Bage - ST.Hall 42",
+            "status": "track",
+            "price": "0",
+            "jenis": "angkot"
+        },
+        {
+            "id": "97",
+            "x": "-6.922040137504605",
+            "y": "107.61764466762543",
+            "info": "G. Bage - ST.Hall 43",
+            "status": "track",
+            "price": "0",
+            "jenis": "angkot"
+        },
+        {
+            "id": "98",
+            "x": "-6.918593313438396",
+            "y": "107.61803224682808",
+            "info": "G. Bage - ST.Hall 44",
+            "status": "track",
+            "price": "0",
+            "jenis": "angkot"
+        },
+        {
+            "id": "99",
+            "x": "-6.9168545815145315",
+            "y": "107.6181811094284",
+            "info": "G. Bage - ST.Hall 45",
+            "status": "track",
+            "price": "0",
+            "jenis": "angkot"
+        },
+        {
+            "id": "100",
+            "x": "-6.915897344285273",
+            "y": "107.61841043829918",
+            "info": "G. Bage - ST.Hall 46",
+            "status": "track",
+            "price": "0",
+            "jenis": "angkot"
+        },
+        {
+            "id": "101",
+            "x": "-6.91578484548489",
+            "y": "107.61843457818031",
+            "info": "G. Bage - ST.Hall 47",
+            "status": "track",
+            "price": "0",
+            "jenis": "angkot"
+        },
+        {
+            "id": "102",
+            "x": "-6.915629077870928",
+            "y": "107.61844329535961",
+            "info": "G. Bage - ST.Hall 48",
+            "status": "track",
+            "price": "0",
+            "jenis": "angkot"
+        },
+        {
+            "id": "103",
+            "x": "-6.914977382894829",
+            "y": "107.61813282966614",
+            "info": "G. Bage - ST.Hall 49",
+            "status": "track",
+            "price": "0",
+            "jenis": "angkot"
+        },
+        {
+            "id": "104",
+            "x": "-6.914370287276813",
+            "y": "107.6178029179573",
+            "info": "G. Bage - ST.Hall 50",
+            "status": "track",
+            "price": "0",
+            "jenis": "angkot"
+        },
+        {
+            "id": "105",
+            "x": "-6.912751361815272",
+            "y": "107.61671662330627",
+            "info": "G. Bage - ST.Hall 51",
+            "status": "track",
+            "price": "0",
+            "jenis": "angkot"
+        },
+        {
+            "id": "106",
+            "x": "-6.911625033757202",
+            "y": "107.61617749929428",
+            "info": "G. Bage - ST.Hall 52",
+            "status": "track",
+            "price": "0",
+            "jenis": "angkot"
+        },
+        {
+            "id": "107",
+            "x": "-6.912174884551147",
+            "y": "107.61440724134445",
+            "info": "G. Bage - ST.Hall 53",
+            "status": "track",
+            "price": "0",
+            "jenis": "angkot"
+        },
+        {
+            "id": "108",
+            "x": "-6.912704764372014",
+            "y": "107.61305809020996",
+            "info": "G. Bage - ST.Hall 54",
+            "status": "track",
+            "price": "0",
+            "jenis": "angkot"
+        },
+        {
+            "id": "109",
+            "x": "-6.911165714807036",
+            "y": "107.61253371834755",
+            "info": "G. Bage - ST.Hall 55",
+            "status": "track",
+            "price": "0",
+            "jenis": "angkot"
+        },
+        {
+            "id": "110",
+            "x": "-6.910369560902789",
+            "y": "107.61250287294388",
+            "info": "G. Bage - ST.Hall 56",
+            "status": "track",
+            "price": "0",
+            "jenis": "angkot"
+        },
+        {
+            "id": "111",
+            "x": "-6.90998479708053",
+            "y": "107.61245861649513",
+            "info": "G. Bage - ST.Hall 57",
+            "status": "track",
+            "price": "0",
+            "jenis": "angkot"
+        },
+        {
+            "id": "112",
+            "x": "-6.909859648918602",
+            "y": "107.61213541030884",
+            "info": "G. Bage - ST.Hall 58",
+            "status": "track",
+            "price": "0",
+            "jenis": "angkot"
+        },
+        {
+            "id": "113",
+            "x": "-6.90988893891691",
+            "y": "107.61159360408783",
+            "info": "G. Bage - ST.Hall 59",
+            "status": "track",
+            "price": "0",
+            "jenis": "angkot"
+        },
+        {
+            "id": "114",
+            "x": "-6.909870299827287",
+            "y": "107.61060923337936",
+            "info": "G. Bage - ST.Hall 60",
+            "status": "track",
+            "price": "0",
+            "jenis": "angkot"
+        },
+        {
+            "id": "115",
+            "x": "-6.910756987134052",
+            "y": "107.61060118675232",
+            "info": "G. Bage - ST.Hall 61",
+            "status": "track",
+            "price": "0",
+            "jenis": "angkot"
+        },
+        {
+            "id": "116",
+            "x": "-6.9120031394566075",
+            "y": "107.61049121618271",
+            "info": "G. Bage - ST.Hall 62",
+            "status": "track",
+            "price": "0",
+            "jenis": "angkot"
+        },
+        {
+            "id": "117",
+            "x": "-6.912192192192872",
+            "y": "107.6104710996151",
+            "info": "G. Bage - ST.Hall 63",
+            "status": "track",
+            "price": "0",
+            "jenis": "angkot"
+        },
+        {
+            "id": "118",
+            "x": "-6.9127739948574805",
+            "y": "107.61043354868889",
+            "info": "G. Bage - ST.Hall 64",
+            "status": "track",
+            "price": "0",
+            "jenis": "angkot"
+        },
+        {
+            "id": "119",
+            "x": "-6.913687303774131",
+            "y": "107.61032626032829",
+            "info": "G. Bage - ST.Hall 65",
+            "status": "track",
+            "price": "0",
+            "jenis": "angkot"
+        },
+        {
+            "id": "120",
+            "x": "-6.9139562369670955",
+            "y": "107.60996013879776",
+            "info": "G. Bage - ST.Hall 66",
+            "status": "track",
+            "price": "0",
+            "jenis": "angkot"
+        },
+        {
+            "id": "121",
+            "x": "-6.913869699075165",
+            "y": "107.60900527238846",
+            "info": "G. Bage - ST.Hall 67",
+            "status": "track",
+            "price": "0",
+            "jenis": "angkot"
+        },
+        {
+            "id": "122",
+            "x": "-6.916252813691423",
+            "y": "107.60900527238846",
+            "info": "G. Bage - ST.Hall 68",
+            "status": "track",
+            "price": "0",
+            "jenis": "angkot"
+        },
+        {
+            "id": "123",
+            "x": "-6.916260801764896",
+            "y": "107.60845810174942",
+            "info": "G. Bage - ST.Hall 69",
+            "status": "track",
+            "price": "0",
+            "jenis": "angkot"
+        },
+        {
+            "id": "124",
+            "x": "-6.916069087964339",
+            "y": "107.60795652866364",
+            "info": "G. Bage - ST.Hall 70",
+            "status": "track",
+            "price": "0",
+            "jenis": "angkot"
+        },
+        {
+            "id": "125",
+            "x": "-6.915477969922814",
+            "y": "107.60750859975815",
+            "info": "G. Bage - ST.Hall 71",
+            "status": "track",
+            "price": "0",
+            "jenis": "angkot"
+        },
+        {
+            "id": "126",
+            "x": "-6.915468650488312",
+            "y": "107.60720819234848",
+            "info": "G. Bage - ST.Hall 72",
+            "status": "track",
+            "price": "0",
+            "jenis": "angkot"
+        },
+        {
+            "id": "127",
+            "x": "-6.915162440395155",
+            "y": "107.60708346962929",
+            "info": "G. Bage - ST.Hall 73",
+            "status": "track",
+            "price": "0",
+            "jenis": "angkot"
+        },
+        {
+            "id": "128",
+            "x": "-6.914371618627715",
+            "y": "107.6071947813034",
+            "info": "G. Bage - ST.Hall 74",
+            "status": "track",
+            "price": "0",
+            "jenis": "angkot"
+        },
+        {
+            "id": "129",
+            "x": "-6.914427535361829",
+            "y": "107.60706201195717",
+            "info": "G. Bage - ST.Hall 75",
+            "status": "track",
+            "price": "0",
+            "jenis": "angkot"
+        },
+        {
+            "id": "130",
+            "x": "-6.9147270891819055",
+            "y": "107.60689169168472",
+            "info": "G. Bage - ST.Hall 76",
+            "status": "track",
+            "price": "0",
+            "jenis": "angkot"
+        },
+        {
+            "id": "131",
+            "x": "-6.914756378878568",
+            "y": "107.60676294565201",
+            "info": "G. Bage - ST.Hall 77",
+            "status": "track",
+            "price": "0",
+            "jenis": "angkot"
+        },
+        {
+            "id": "132",
+            "x": "-6.914540700160618",
+            "y": "107.60452598333359",
+            "info": "G. Bage - ST.Hall 78",
+            "status": "track",
+            "price": "0",
+            "jenis": "angkot"
+        },
+        {
+            "id": "133",
+            "x": "-6.914408896451184",
+            "y": "107.60447300970554",
+            "info": "G. Bage - ST.Hall 79",
+            "status": "track",
+            "price": "0",
+            "jenis": "angkot"
+        },
+        {
+            "id": "134",
+            "x": "-6.912726066060928",
+            "y": "107.60469228029251",
+            "info": "G. Bage - ST.Hall 80",
+            "status": "track",
+            "price": "0",
+            "jenis": "angkot"
+        },
+        {
+            "id": "135",
+            "x": "-6.9126874567490555",
+            "y": "107.60398954153061",
+            "info": "G. Bage - ST.Hall 81",
+            "status": "track",
+            "price": "0",
+            "jenis": "angkot"
+        },
+        {
+            "id": "136",
+            "x": "-6.912346629583285",
+            "y": "107.5980082154274",
+            "info": "G. Bage - ST.Hall 83",
+            "status": "track",
+            "price": "0",
+            "jenis": "angkot"
+        },
+        {
+            "id": "137",
+            "x": "-6.914375612680362",
+            "y": "107.59810209274292",
+            "info": "G. Bage - ST.Hall 84",
+            "status": "track",
+            "price": "0",
+            "jenis": "angkot"
+        },
+        {
+            "id": "138",
+            "x": "-6.914780343174481",
+            "y": "107.59805381298065",
+            "info": "G. Bage - ST.Hall 85",
+            "status": "track",
+            "price": "0",
+            "jenis": "angkot"
+        },
+        {
+            "id": "139",
+            "x": "-6.9163433451828205",
+            "y": "107.59821474552155",
+            "info": "G. Bage - ST.Hall 86",
+            "status": "track",
+            "price": "0",
+            "jenis": "angkot"
+        },
+        {
+            "id": "140",
+            "x": "-6.916228849470201",
+            "y": "107.59985625743866",
+            "info": "G. Bage - ST.Hall 87",
+            "status": "track",
+            "price": "0",
+            "jenis": "angkot"
+        },
+        {
+            "id": "141",
+            "x": "-6.916180921024121",
+            "y": "107.60152459144592",
+            "info": "G. Bage - ST.Hall 88",
+            "status": "track",
+            "price": "0",
+            "jenis": "angkot"
+        },
+        {
+            "id": "142",
+            "x": "-6.916111691037849",
+            "y": "107.60227024555206",
+            "info": "G. Bage - ST.Hall 89",
+            "status": "track",
+            "price": "0",
+            "jenis": "angkot"
+        },
+        {
+            "id": "143",
+            "x": "-6.946661763656551",
+            "y": "107.66271516680717",
+            "info": "MHY-LDG 1",
+            "status": "track",
+            "price": "0",
+            "jenis": "angkot"
+        },
+        {
+            "id": "144",
+            "x": "-6.945377761931355",
+            "y": "107.66297802329063",
+            "info": "MHY-LDG 2",
+            "status": "track",
+            "price": "0",
+            "jenis": "angkot"
+        },
+        {
+            "id": "145",
+            "x": "-6.9449797140284515",
+            "y": "107.66326233744621",
+            "info": "MHY-LDG 3",
+            "status": "track",
+            "price": "0",
+            "jenis": "angkot"
+        },
+        {
+            "id": "146",
+            "x": "-6.943866775629499",
+            "y": "107.66337633132935",
+            "info": "MHY-LDG 4",
+            "status": "track",
+            "price": "0",
+            "jenis": "angkot"
+        },
+        {
+            "id": "147",
+            "x": "-6.943573896665837",
+            "y": "107.66351714730263",
+            "info": "MHY-LDG 5",
+            "status": "track",
+            "price": "0",
+            "jenis": "angkot"
+        },
+        {
+            "id": "148",
+            "x": "-6.9427138964734105",
+            "y": "107.66362980008125",
+            "info": "MHY-LDG 6",
+            "status": "track",
+            "price": "0",
+            "jenis": "angkot"
+        },
+        {
+            "id": "149",
+            "x": "-6.942269251794619",
+            "y": "107.66357213258743",
+            "info": "MHY-LDG 7",
+            "status": "track",
+            "price": "0",
+            "jenis": "angkot"
+        },
+        {
+            "id": "150",
+            "x": "-6.9392885240732864",
+            "y": "107.66391411423683",
+            "info": "MHY-LDG 8",
+            "status": "track",
+            "price": "0",
+            "jenis": "angkot"
+        },
+        {
+            "id": "151",
+            "x": "-6.939256573338922",
+            "y": "107.66390036791563",
+            "info": "MHY-LDG 9",
+            "status": "track",
+            "price": "0",
+            "jenis": "angkot"
+        },
+        {
+            "id": "152",
+            "x": "-6.939349097334575",
+            "y": "107.66301423311234",
+            "info": "MHY-LDG 10",
+            "status": "track",
+            "price": "0",
+            "jenis": "angkot"
+        },
+        {
+            "id": "153",
+            "x": "-6.9395331468114385",
+            "y": "107.66155544668436",
+            "info": "MHY-LDG 11",
+            "status": "track",
+            "price": "0",
+            "jenis": "angkot"
+        },
+        {
+            "id": "154",
+            "x": "-6.939550453449318",
+            "y": "107.6614099368453",
+            "info": "MHY-LDG 12",
+            "status": "track",
+            "price": "0",
+            "jenis": "angkot"
+        },
+        {
+            "id": "155",
+            "x": "-6.939639982008215",
+            "y": "107.66101732850075",
+            "info": "MHY-LDG 13",
+            "status": "track",
+            "price": "0",
+            "jenis": "angkot"
+        },
+        {
+            "id": "156",
+            "x": "-6.939979458173502",
+            "y": "107.6596936583519",
+            "info": "MHY-LDG 14",
+            "status": "track",
+            "price": "0",
+            "jenis": "angkot"
+        },
+        {
+            "id": "157",
+            "x": "-6.940882064198531",
+            "y": "107.65667080879211",
+            "info": "MHY-LDG 15",
+            "status": "track",
+            "price": "0",
+            "jenis": "angkot"
+        },
+        {
+            "id": "158",
+            "x": "-6.941651541124399",
+            "y": "107.65418976545334",
+            "info": "MHY-LDG 16",
+            "status": "track",
+            "price": "0",
+            "jenis": "angkot"
+        },
+        {
+            "id": "159",
+            "x": "-6.9425408312292065",
+            "y": "107.65142977237701",
+            "info": "MHY-LDG 17",
+            "status": "track",
+            "price": "0",
+            "jenis": "angkot"
+        },
+        {
+            "id": "160",
+            "x": "-6.943350243516258",
+            "y": "107.64887899160385",
+            "info": "MHY-LDG 18",
+            "status": "track",
+            "price": "0",
+            "jenis": "angkot"
+        },
+        {
+            "id": "161",
+            "x": "-6.944111728804535",
+            "y": "107.6465293765068",
+            "info": "MHY-LDG 19",
+            "status": "track",
+            "price": "0",
+            "jenis": "angkot"
+        },
+        {
+            "id": "162",
+            "x": "-6.944905163213198",
+            "y": "107.64401346445084",
+            "info": "MHY-LDG 20",
+            "status": "track",
+            "price": "0",
+            "jenis": "angkot"
+        },
+        {
+            "id": "163",
+            "x": "-6.945557482446026",
+            "y": "107.64181405305862",
+            "info": "MHY-LDG 21",
+            "status": "track",
+            "price": "0",
+            "jenis": "angkot"
+        },
+        {
+            "id": "164",
+            "x": "-6.942689933597233",
+            "y": "107.64200985431671",
+            "info": "MHY-LDG 22",
+            "status": "track",
+            "price": "0",
+            "jenis": "angkot"
+        },
+        {
+            "id": "165",
+            "x": "-6.9379186343907016",
+            "y": "107.64232635498047",
+            "info": "MHY-LDG 23",
+            "status": "track",
+            "price": "0",
+            "jenis": "angkot"
+        },
+        {
+            "id": "166",
+            "x": "-6.933850211608393",
+            "y": "107.64272332191467",
+            "info": "MHY-LDG 24",
+            "status": "track",
+            "price": "0",
+            "jenis": "angkot"
+        },
+        {
+            "id": "167",
+            "x": "-6.932130174131528",
+            "y": "107.64305055141449",
+            "info": "MHY-LDG 25",
+            "status": "track",
+            "price": "0",
+            "jenis": "angkot"
+        },
+        {
+            "id": "168",
+            "x": "-6.930942652333825",
+            "y": "107.64382839202881",
+            "info": "MHY-LDG 26",
+            "status": "track",
+            "price": "0",
+            "jenis": "angkot"
+        },
+        {
+            "id": "169",
+            "x": "-6.929813705070285",
+            "y": "107.64395713806152",
+            "info": "MHY-LDG 27",
+            "status": "track",
+            "price": "0",
+            "jenis": "angkot"
+        },
+        {
+            "id": "170",
+            "x": "-6.945895623080067",
+            "y": "107.66245365142822",
+            "info": "",
+            "status": "track",
+            "price": "0",
+            "jenis": "angkot"
+        },
+        {
+            "id": "171",
+            "x": "-6.9291480509355825",
+            "y": "107.64401614665985",
+            "info": "MHY-LDG 28",
+            "status": "track",
+            "price": "0",
+            "jenis": "angkot"
+        }
+    ],
+    "paths": [
+        {
+            "id": "id_0-id_1",
+            "fnode": "0",
+            "tnode": "1",
+            "distance": "0.2073809247",
+            "price": "103.690"
+        },
+        {
+            "id": "id_1-id_2",
+            "fnode": "1",
+            "tnode": "2",
+            "distance": "0.8025375730",
+            "price": "401.269"
+        },
+        {
+            "id": "id_2-id_3",
+            "fnode": "2",
+            "tnode": "3",
+            "distance": "0.2640816041",
+            "price": "132.041"
+        },
+        {
+            "id": "id_3-id_4",
+            "fnode": "3",
+            "tnode": "4",
+            "distance": "0.1145930206",
+            "price": "57.297"
+        },
+        {
+            "id": "id_4-id_5",
+            "fnode": "4",
+            "tnode": "5",
+            "distance": "0.1311147514",
+            "price": "65.557"
+        },
+        {
+            "id": "id_5-id_6",
+            "fnode": "5",
+            "tnode": "6",
+            "distance": "0.1210214640",
+            "price": "60.511"
+        },
+        {
+            "id": "id_6-id_7",
+            "fnode": "6",
+            "tnode": "7",
+            "distance": "0.0335224827",
+            "price": "16.761"
+        },
+        {
+            "id": "id_7-id_8",
+            "fnode": "7",
+            "tnode": "8",
+            "distance": "0.1217182893",
+            "price": "60.859"
+        },
+        {
+            "id": "id_8-id_9",
+            "fnode": "8",
+            "tnode": "9",
+            "distance": "0.2403790948",
+            "price": "120.190"
+        },
+        {
+            "id": "id_9-id_10",
+            "fnode": "9",
+            "tnode": "10",
+            "distance": "0.1393939855",
+            "price": "69.697"
+        },
+        {
+            "id": "id_10-id_11",
+            "fnode": "10",
+            "tnode": "11",
+            "distance": "0.0910889985",
+            "price": "45.544"
+        },
+        {
+            "id": "id_11-id_12",
+            "fnode": "11",
+            "tnode": "12",
+            "distance": "0.1617602506",
+            "price": "80.880"
+        },
+        {
+            "id": "id_12-id_13",
+            "fnode": "12",
+            "tnode": "13",
+            "distance": "0.8777495969",
+            "price": "438.875"
+        },
+        {
+            "id": "id_13-id_14",
+            "fnode": "13",
+            "tnode": "14",
+            "distance": "0.0848837954",
+            "price": "42.442"
+        },
+        {
+            "id": "id_14-id_15",
+            "fnode": "14",
+            "tnode": "15",
+            "distance": "0.2029140821",
+            "price": "101.457"
+        },
+        {
+            "id": "id_15-id_16",
+            "fnode": "15",
+            "tnode": "16",
+            "distance": "0.2096973462",
+            "price": "104.849"
+        },
+        {
+            "id": "id_16-id_17",
+            "fnode": "16",
+            "tnode": "17",
+            "distance": "0.0210452340",
+            "price": "10.523"
+        },
+        {
+            "id": "id_17-id_18",
+            "fnode": "17",
+            "tnode": "18",
+            "distance": "0.1926399000",
+            "price": "96.320"
+        },
+        {
+            "id": "id_18-id_19",
+            "fnode": "18",
+            "tnode": "19",
+            "distance": "0.0652760828",
+            "price": "32.638"
+        },
+        {
+            "id": "id_19-id_20",
+            "fnode": "19",
+            "tnode": "20",
+            "distance": "0.0421185703",
+            "price": "21.059"
+        },
+        {
+            "id": "id_20-id_21",
+            "fnode": "20",
+            "tnode": "21",
+            "distance": "0.1430174837",
+            "price": "71.509"
+        },
+        {
+            "id": "id_21-id_22",
+            "fnode": "21",
+            "tnode": "22",
+            "distance": "0.1217032397",
+            "price": "60.852"
+        },
+        {
+            "id": "id_22-id_23",
+            "fnode": "22",
+            "tnode": "23",
+            "distance": "0.3886883870",
+            "price": "194.344"
+        },
+        {
+            "id": "id_23-id_24",
+            "fnode": "23",
+            "tnode": "24",
+            "distance": "0.0076455464",
+            "price": "3.823"
+        },
+        {
+            "id": "id_23-id_24",
+            "fnode": "23",
+            "tnode": "24",
+            "distance": "0.0076455464",
+            "price": "3.823"
+        },
+        {
+            "id": "id_24-id_25",
+            "fnode": "24",
+            "tnode": "25",
+            "distance": "0.2353128712",
+            "price": "117.656"
+        },
+        {
+            "id": "id_25-id_26",
+            "fnode": "25",
+            "tnode": "26",
+            "distance": "0.4732172124",
+            "price": "236.609"
+        },
+        {
+            "id": "id_26-id_27",
+            "fnode": "26",
+            "tnode": "27",
+            "distance": "0.3613180189",
+            "price": "180.659"
+        },
+        {
+            "id": "id_27-id_28",
+            "fnode": "27",
+            "tnode": "28",
+            "distance": "0.6038984695",
+            "price": "301.949"
+        },
+        {
+            "id": "id_28-id_29",
+            "fnode": "28",
+            "tnode": "29",
+            "distance": "0.0503678549",
+            "price": "25.184"
+        },
+        {
+            "id": "id_29-id_30",
+            "fnode": "29",
+            "tnode": "30",
+            "distance": "0.1316074737",
+            "price": "65.804"
+        },
+        {
+            "id": "id_30-id_31",
+            "fnode": "30",
+            "tnode": "31",
+            "distance": "0.0547733492",
+            "price": "27.387"
+        },
+        {
+            "id": "id_31-id_32",
+            "fnode": "31",
+            "tnode": "32",
+            "distance": "0.0310700925",
+            "price": "15.535"
+        },
+        {
+            "id": "id_32-id_33",
+            "fnode": "32",
+            "tnode": "33",
+            "distance": "0.1297936735",
+            "price": "64.897"
+        },
+        {
+            "id": "id_33-id_34",
+            "fnode": "33",
+            "tnode": "34",
+            "distance": "0.0839080477",
+            "price": "41.954"
+        },
+        {
+            "id": "id_34-id_35",
+            "fnode": "34",
+            "tnode": "35",
+            "distance": "0.0988988072",
+            "price": "49.449"
+        },
+        {
+            "id": "id_35-id_36",
+            "fnode": "35",
+            "tnode": "36",
+            "distance": "0.0844320629",
+            "price": "42.216"
+        },
+        {
+            "id": "id_36-id_37",
+            "fnode": "36",
+            "tnode": "37",
+            "distance": "0.1433649566",
+            "price": "71.682"
+        },
+        {
+            "id": "id_37-id_38",
+            "fnode": "37",
+            "tnode": "38",
+            "distance": "0.2023344571",
+            "price": "101.167"
+        },
+        {
+            "id": "id_38-id_39",
+            "fnode": "38",
+            "tnode": "39",
+            "distance": "0.2222174730",
+            "price": "111.109"
+        },
+        {
+            "id": "id_39-id_40",
+            "fnode": "39",
+            "tnode": "40",
+            "distance": "0.0705799186",
+            "price": "35.290"
+        },
+        {
+            "id": "id_40-id_41",
+            "fnode": "40",
+            "tnode": "41",
+            "distance": "0.0210804847",
+            "price": "10.540"
+        },
+        {
+            "id": "id_41-id_42",
+            "fnode": "41",
+            "tnode": "42",
+            "distance": "0.0016653146",
+            "price": "0.833"
+        },
+        {
+            "id": "id_42-id_43",
+            "fnode": "42",
+            "tnode": "43",
+            "distance": "0.0651694632",
+            "price": "32.585"
+        },
+        {
+            "id": "id_43-id_44",
+            "fnode": "43",
+            "tnode": "44",
+            "distance": "0.0557999773",
+            "price": "27.900"
+        },
+        {
+            "id": "id_44-id_45",
+            "fnode": "44",
+            "tnode": "45",
+            "distance": "0.8155658358",
+            "price": "407.783"
+        },
+        {
+            "id": "id_45-id_46",
+            "fnode": "45",
+            "tnode": "46",
+            "distance": "0.0533831655",
+            "price": "26.692"
+        },
+        {
+            "id": "id_46-id_47",
+            "fnode": "46",
+            "tnode": "47",
+            "distance": "0.0273201455",
+            "price": "13.660"
+        },
+        {
+            "id": "id_47-id_48",
+            "fnode": "47",
+            "tnode": "48",
+            "distance": "1.0458007403",
+            "price": "522.900"
+        },
+        {
+            "id": "id_48-id_49",
+            "fnode": "48",
+            "tnode": "49",
+            "distance": "0.0396357148",
+            "price": "19.818"
+        },
+        {
+            "id": "id_49-id_50",
+            "fnode": "49",
+            "tnode": "50",
+            "distance": "1.9657921477",
+            "price": "982.896"
+        },
+        {
+            "id": "id_50-id_51",
+            "fnode": "50",
+            "tnode": "51",
+            "distance": "0.1978724771",
+            "price": "98.936"
+        },
+        {
+            "id": "id_51-id_52",
+            "fnode": "51",
+            "tnode": "52",
+            "distance": "0.2855076428",
+            "price": "142.754"
+        },
+        {
+            "id": "id_52-id_53",
+            "fnode": "52",
+            "tnode": "53",
+            "distance": "3.6959438195",
+            "price": "1847.972"
+        },
+        {
+            "id": "id_54-id_55",
+            "fnode": "54",
+            "tnode": "55",
+            "distance": "0.0283661430",
+            "price": "14.183"
+        },
+        {
+            "id": "id_56-id_57",
+            "fnode": "56",
+            "tnode": "57",
+            "distance": "0.1665122574",
+            "price": "83.256"
+        },
+        {
+            "id": "id_57-id_58",
+            "fnode": "57",
+            "tnode": "58",
+            "distance": "0.2858313217",
+            "price": "142.916"
+        },
+        {
+            "id": "id_58-id_59",
+            "fnode": "58",
+            "tnode": "59",
+            "distance": "2.8189410874",
+            "price": "1409.471"
+        },
+        {
+            "id": "id_59-id_60",
+            "fnode": "59",
+            "tnode": "60",
+            "distance": "0.1206581003",
+            "price": "60.329"
+        },
+        {
+            "id": "id_60-id_61",
+            "fnode": "60",
+            "tnode": "61",
+            "distance": "0.1633910241",
+            "price": "81.696"
+        },
+        {
+            "id": "id_61-id_62",
+            "fnode": "61",
+            "tnode": "62",
+            "distance": "0.2039600472",
+            "price": "101.980"
+        },
+        {
+            "id": "id_62-id_63",
+            "fnode": "62",
+            "tnode": "63",
+            "distance": "0.5881478492",
+            "price": "294.074"
+        },
+        {
+            "id": "id_63-id_64",
+            "fnode": "63",
+            "tnode": "64",
+            "distance": "1.3856513057",
+            "price": "692.826"
+        },
+        {
+            "id": "id_64-id_65",
+            "fnode": "64",
+            "tnode": "65",
+            "distance": "0.0182158418",
+            "price": "9.108"
+        },
+        {
+            "id": "id_65-id_66",
+            "fnode": "65",
+            "tnode": "66",
+            "distance": "0.2065030102",
+            "price": "103.252"
+        },
+        {
+            "id": "id_66-id_67",
+            "fnode": "66",
+            "tnode": "67",
+            "distance": "0.8731258331",
+            "price": "436.563"
+        },
+        {
+            "id": "id_67-id_68",
+            "fnode": "67",
+            "tnode": "68",
+            "distance": "0.8601761903",
+            "price": "430.088"
+        },
+        {
+            "id": "id_68-id_69",
+            "fnode": "68",
+            "tnode": "69",
+            "distance": "0.0220276722",
+            "price": "11.014"
+        },
+        {
+            "id": "id_69-id_70",
+            "fnode": "69",
+            "tnode": "70",
+            "distance": "0.0553360392",
+            "price": "27.668"
+        },
+        {
+            "id": "id_70-id_71",
+            "fnode": "70",
+            "tnode": "71",
+            "distance": "0.0364370633",
+            "price": "18.219"
+        },
+        {
+            "id": "id_71-id_72",
+            "fnode": "71",
+            "tnode": "72",
+            "distance": "0.0110655920",
+            "price": "5.533"
+        },
+        {
+            "id": "id_72-id_42",
+            "fnode": "72",
+            "tnode": "42",
+            "distance": "0.0172482588",
+            "price": "8.624"
+        },
+        {
+            "id": "id_42-id_73",
+            "fnode": "42",
+            "tnode": "73",
+            "distance": "0.0017198956",
+            "price": "0.860"
+        },
+        {
+            "id": "id_73-id_74",
+            "fnode": "73",
+            "tnode": "74",
+            "distance": "0.0916798023",
+            "price": "45.840"
+        },
+        {
+            "id": "id_74-id_75",
+            "fnode": "74",
+            "tnode": "75",
+            "distance": "0.2216361953",
+            "price": "110.818"
+        },
+        {
+            "id": "id_75-id_76",
+            "fnode": "75",
+            "tnode": "76",
+            "distance": "0.2587228174",
+            "price": "129.361"
+        },
+        {
+            "id": "id_76-id_77",
+            "fnode": "76",
+            "tnode": "77",
+            "distance": "0.1055258171",
+            "price": "52.763"
+        },
+        {
+            "id": "id_77-id_78",
+            "fnode": "77",
+            "tnode": "78",
+            "distance": "0.1413824222",
+            "price": "70.691"
+        },
+        {
+            "id": "id_78-id_79",
+            "fnode": "78",
+            "tnode": "79",
+            "distance": "0.1247715330",
+            "price": "62.386"
+        },
+        {
+            "id": "id_79-id_80",
+            "fnode": "79",
+            "tnode": "80",
+            "distance": "0.1102508665",
+            "price": "55.125"
+        },
+        {
+            "id": "id_80-id_81",
+            "fnode": "80",
+            "tnode": "81",
+            "distance": "0.1089464231",
+            "price": "54.473"
+        },
+        {
+            "id": "id_81-id_82",
+            "fnode": "81",
+            "tnode": "82",
+            "distance": "0.0746367467",
+            "price": "37.318"
+        },
+        {
+            "id": "id_82-id_83",
+            "fnode": "82",
+            "tnode": "83",
+            "distance": "0.1780728725",
+            "price": "89.036"
+        },
+        {
+            "id": "id_83-id_84",
+            "fnode": "83",
+            "tnode": "84",
+            "distance": "0.3612276278",
+            "price": "180.614"
+        },
+        {
+            "id": "id_84-id_85",
+            "fnode": "84",
+            "tnode": "85",
+            "distance": "0.4635861425",
+            "price": "231.793"
+        },
+        {
+            "id": "id_85-id_86",
+            "fnode": "85",
+            "tnode": "86",
+            "distance": "0.2365281830",
+            "price": "118.264"
+        },
+        {
+            "id": "id_86-id_87",
+            "fnode": "86",
+            "tnode": "87",
+            "distance": "0.1352360381",
+            "price": "67.618"
+        },
+        {
+            "id": "id_87-id_88",
+            "fnode": "87",
+            "tnode": "88",
+            "distance": "0.0195575241",
+            "price": "9.779"
+        },
+        {
+            "id": "id_88-id_89",
+            "fnode": "88",
+            "tnode": "89",
+            "distance": "0.0116811049",
+            "price": "5.841"
+        },
+        {
+            "id": "id_89-id_90",
+            "fnode": "89",
+            "tnode": "90",
+            "distance": "0.3421017213",
+            "price": "171.051"
+        },
+        {
+            "id": "id_90-id_91",
+            "fnode": "90",
+            "tnode": "91",
+            "distance": "0.0204256286",
+            "price": "10.213"
+        },
+        {
+            "id": "id_91-id_92",
+            "fnode": "91",
+            "tnode": "92",
+            "distance": "0.0525071858",
+            "price": "26.254"
+        },
+        {
+            "id": "id_92-id_93",
+            "fnode": "92",
+            "tnode": "93",
+            "distance": "0.3085264968",
+            "price": "154.263"
+        },
+        {
+            "id": "id_93-id_94",
+            "fnode": "93",
+            "tnode": "94",
+            "distance": "0.8152441140",
+            "price": "407.622"
+        },
+        {
+            "id": "id_94-id_95",
+            "fnode": "94",
+            "tnode": "95",
+            "distance": "0.0061139057",
+            "price": "3.057"
+        },
+        {
+            "id": "id_95-id_96",
+            "fnode": "95",
+            "tnode": "96",
+            "distance": "0.0086294788",
+            "price": "4.315"
+        },
+        {
+            "id": "id_96-id_97",
+            "fnode": "96",
+            "tnode": "97",
+            "distance": "0.0232833253",
+            "price": "11.642"
+        },
+        {
+            "id": "id_97-id_98",
+            "fnode": "97",
+            "tnode": "98",
+            "distance": "0.3861151111",
+            "price": "193.058"
+        },
+        {
+            "id": "id_98-id_99",
+            "fnode": "98",
+            "tnode": "99",
+            "distance": "0.1942619821",
+            "price": "97.131"
+        },
+        {
+            "id": "id_99-id_100",
+            "fnode": "99",
+            "tnode": "100",
+            "distance": "0.1095740260",
+            "price": "54.787"
+        },
+        {
+            "id": "id_100-id_101",
+            "fnode": "100",
+            "tnode": "101",
+            "distance": "0.0128083208",
+            "price": "6.404"
+        },
+        {
+            "id": "id_101-id_102",
+            "fnode": "101",
+            "tnode": "102",
+            "distance": "0.0173670266",
+            "price": "8.684"
+        },
+        {
+            "id": "id_102-id_103",
+            "fnode": "102",
+            "tnode": "103",
+            "distance": "0.0803577688",
+            "price": "40.179"
+        },
+        {
+            "id": "id_103-id_104",
+            "fnode": "103",
+            "tnode": "104",
+            "distance": "0.0769154540",
+            "price": "38.458"
+        },
+        {
+            "id": "id_104-id_105",
+            "fnode": "104",
+            "tnode": "105",
+            "distance": "0.2170279666",
+            "price": "108.514"
+        },
+        {
+            "id": "id_105-id_106",
+            "fnode": "105",
+            "tnode": "106",
+            "distance": "0.1390048334",
+            "price": "69.502"
+        },
+        {
+            "id": "id_106-id_107",
+            "fnode": "106",
+            "tnode": "107",
+            "distance": "0.2063503913",
+            "price": "103.175"
+        },
+        {
+            "id": "id_107-id_108",
+            "fnode": "107",
+            "tnode": "108",
+            "distance": "0.1613542470",
+            "price": "80.677"
+        },
+        {
+            "id": "id_108-id_109",
+            "fnode": "108",
+            "tnode": "109",
+            "distance": "0.1809965952",
+            "price": "90.498"
+        },
+        {
+            "id": "id_109-id_110",
+            "fnode": "109",
+            "tnode": "110",
+            "distance": "0.0886935471",
+            "price": "44.347"
+        },
+        {
+            "id": "id_110-id_111",
+            "fnode": "110",
+            "tnode": "111",
+            "distance": "0.0431139266",
+            "price": "21.557"
+        },
+        {
+            "id": "id_111-id_112",
+            "fnode": "111",
+            "tnode": "112",
+            "distance": "0.0385819997",
+            "price": "19.291"
+        },
+        {
+            "id": "id_112-id_113",
+            "fnode": "112",
+            "tnode": "113",
+            "distance": "0.0604013945",
+            "price": "30.201"
+        },
+        {
+            "id": "id_113-id_114",
+            "fnode": "113",
+            "tnode": "114",
+            "distance": "0.1095988051",
+            "price": "54.799"
+        },
+        {
+            "id": "id_114-id_115",
+            "fnode": "114",
+            "tnode": "115",
+            "distance": "0.0987092086",
+            "price": "49.355"
+        },
+        {
+            "id": "id_115-id_116",
+            "fnode": "115",
+            "tnode": "116",
+            "distance": "0.1392595412",
+            "price": "69.630"
+        },
+        {
+            "id": "id_116-id_117",
+            "fnode": "116",
+            "tnode": "117",
+            "distance": "0.0211639680",
+            "price": "10.582"
+        },
+        {
+            "id": "id_117-id_118",
+            "fnode": "117",
+            "tnode": "118",
+            "distance": "0.0649004484",
+            "price": "32.450"
+        },
+        {
+            "id": "id_118-id_119",
+            "fnode": "118",
+            "tnode": "119",
+            "distance": "0.1023677304",
+            "price": "51.184"
+        },
+        {
+            "id": "id_119-id_120",
+            "fnode": "119",
+            "tnode": "120",
+            "distance": "0.0505699609",
+            "price": "25.285"
+        },
+        {
+            "id": "id_120-id_121",
+            "fnode": "120",
+            "tnode": "121",
+            "distance": "0.1067304063",
+            "price": "53.365"
+        },
+        {
+            "id": "id_121-id_122",
+            "fnode": "121",
+            "tnode": "122",
+            "distance": "0.2652859360",
+            "price": "132.643"
+        },
+        {
+            "id": "id_122-id_123",
+            "fnode": "122",
+            "tnode": "123",
+            "distance": "0.0609169789",
+            "price": "30.458"
+        },
+        {
+            "id": "id_123-id_124",
+            "fnode": "123",
+            "tnode": "124",
+            "distance": "0.0597742338",
+            "price": "29.887"
+        },
+        {
+            "id": "id_124-id_125",
+            "fnode": "124",
+            "tnode": "125",
+            "distance": "0.0825609462",
+            "price": "41.280"
+        },
+        {
+            "id": "id_125-id_126",
+            "fnode": "125",
+            "tnode": "126",
+            "distance": "0.0334571405",
+            "price": "16.729"
+        },
+        {
+            "id": "id_126-id_127",
+            "fnode": "126",
+            "tnode": "127",
+            "distance": "0.0368061048",
+            "price": "18.403"
+        },
+        {
+            "id": "id_127-id_128",
+            "fnode": "127",
+            "tnode": "128",
+            "distance": "0.0889012628",
+            "price": "44.451"
+        },
+        {
+            "id": "id_128-id_129",
+            "fnode": "128",
+            "tnode": "129",
+            "distance": "0.0160370389",
+            "price": "8.019"
+        },
+        {
+            "id": "id_129-id_130",
+            "fnode": "129",
+            "tnode": "130",
+            "distance": "0.0383592879",
+            "price": "19.180"
+        },
+        {
+            "id": "id_130-id_131",
+            "fnode": "130",
+            "tnode": "131",
+            "distance": "0.0146980826",
+            "price": "7.349"
+        },
+        {
+            "id": "id_131-id_132",
+            "fnode": "131",
+            "tnode": "132",
+            "distance": "0.2501711622",
+            "price": "125.086"
+        },
+        {
+            "id": "id_132-id_133",
+            "fnode": "132",
+            "tnode": "133",
+            "distance": "0.0158129504",
+            "price": "7.906"
+        },
+        {
+            "id": "id_133-id_134",
+            "fnode": "133",
+            "tnode": "134",
+            "distance": "0.1889145324",
+            "price": "94.457"
+        },
+        {
+            "id": "id_134-id_135",
+            "fnode": "134",
+            "tnode": "135",
+            "distance": "0.0783461545",
+            "price": "39.173"
+        },
+        {
+            "id": "id_135-id_136",
+            "fnode": "135",
+            "tnode": "136",
+            "distance": "0.6669153260",
+            "price": "333.458"
+        },
+        {
+            "id": "id_136-id_137",
+            "fnode": "136",
+            "tnode": "137",
+            "distance": "0.2261059989",
+            "price": "113.053"
+        },
+        {
+            "id": "id_137-id_138",
+            "fnode": "137",
+            "tnode": "138",
+            "distance": "0.0453736173",
+            "price": "22.687"
+        },
+        {
+            "id": "id_138-id_139",
+            "fnode": "138",
+            "tnode": "139",
+            "distance": "0.1749116790",
+            "price": "87.456"
+        },
+        {
+            "id": "id_139-id_140",
+            "fnode": "139",
+            "tnode": "140",
+            "distance": "0.1831754278",
+            "price": "91.588"
+        },
+        {
+            "id": "id_140-id_141",
+            "fnode": "140",
+            "tnode": "141",
+            "distance": "0.1857938953",
+            "price": "92.897"
+        },
+        {
+            "id": "id_141-id_142",
+            "fnode": "141",
+            "tnode": "142",
+            "distance": "0.0833624606",
+            "price": "41.681"
+        },
+        {
+            "id": "id_142-id_0",
+            "fnode": "142",
+            "tnode": "0",
+            "distance": "0.0385277220",
+            "price": "19.264"
+        },
+        {
+            "id": "id_55-id_56",
+            "fnode": "55",
+            "tnode": "56",
+            "distance": "0.4216187360",
+            "price": "105.405"
+        },
+        {
+            "id": "id_143-id_144",
+            "fnode": "143",
+            "tnode": "144",
+            "distance": "0.146",
+            "price": "36.500"
+        },
+        {
+            "id": "id_144-id_145",
+            "fnode": "144",
+            "tnode": "145",
+            "distance": "0.054",
+            "price": "13.500"
+        },
+        {
+            "id": "id_145-id_146",
+            "fnode": "145",
+            "tnode": "146",
+            "distance": "0.125",
+            "price": "31.250"
+        },
+        {
+            "id": "id_146-id_147",
+            "fnode": "146",
+            "tnode": "147",
+            "distance": "0.036",
+            "price": "9.000"
+        },
+        {
+            "id": "id_147-id_148",
+            "fnode": "147",
+            "tnode": "148",
+            "distance": "0.097",
+            "price": "24.250"
+        },
+        {
+            "id": "id_148-id_149",
+            "fnode": "148",
+            "tnode": "149",
+            "distance": "0.050",
+            "price": "12.500"
+        },
+        {
+            "id": "id_149-id_150",
+            "fnode": "149",
+            "tnode": "150",
+            "distance": "0.334",
+            "price": "83.500"
+        },
+        {
+            "id": "id_150-id_151",
+            "fnode": "150",
+            "tnode": "151",
+            "distance": "0.004",
+            "price": "1.000"
+        },
+        {
+            "id": "id_151-id_152",
+            "fnode": "151",
+            "tnode": "152",
+            "distance": "0.099",
+            "price": "24.750"
+        },
+        {
+            "id": "id_152-id_153",
+            "fnode": "152",
+            "tnode": "153",
+            "distance": "0.164",
+            "price": "41.000"
+        },
+        {
+            "id": "id_153-id_154",
+            "fnode": "153",
+            "tnode": "154",
+            "distance": "0.016",
+            "price": "4.000"
+        },
+        {
+            "id": "id_154-id_155",
+            "fnode": "154",
+            "tnode": "155",
+            "distance": "0.045",
+            "price": "11.250"
+        },
+        {
+            "id": "id_155-id_156",
+            "fnode": "155",
+            "tnode": "156",
+            "distance": "0.152",
+            "price": "38.000"
+        },
+        {
+            "id": "id_156-id_157",
+            "fnode": "156",
+            "tnode": "157",
+            "distance": "0.351",
+            "price": "87.750"
+        },
+        {
+            "id": "id_157-id_158",
+            "fnode": "157",
+            "tnode": "158",
+            "distance": "0.289",
+            "price": "72.250"
+        },
+        {
+            "id": "id_158-id_159",
+            "fnode": "158",
+            "tnode": "159",
+            "distance": "0.323",
+            "price": "80.750"
+        },
+        {
+            "id": "id_159-id_160",
+            "fnode": "159",
+            "tnode": "160",
+            "distance": "0.298",
+            "price": "74.500"
+        },
+        {
+            "id": "id_160-id_161",
+            "fnode": "160",
+            "tnode": "161",
+            "distance": "0.275",
+            "price": "68.750"
+        },
+        {
+            "id": "id_161-id_162",
+            "fnode": "161",
+            "tnode": "162",
+            "distance": "0.294",
+            "price": "73.500"
+        },
+        {
+            "id": "id_162-id_163",
+            "fnode": "162",
+            "tnode": "163",
+            "distance": "0.255",
+            "price": "63.750"
+        },
+        {
+            "id": "id_163-id_164",
+            "fnode": "163",
+            "tnode": "164",
+            "distance": "0.320",
+            "price": "80.000"
+        },
+        {
+            "id": "id_164-id_165",
+            "fnode": "164",
+            "tnode": "165",
+            "distance": "0.532",
+            "price": "133.000"
+        },
+        {
+            "id": "id_165-id_166",
+            "fnode": "165",
+            "tnode": "166",
+            "distance": "0.455",
+            "price": "113.750"
+        },
+        {
+            "id": "id_166-id_167",
+            "fnode": "166",
+            "tnode": "167",
+            "distance": "0.195",
+            "price": "48.750"
+        },
+        {
+            "id": "id_167-id_168",
+            "fnode": "167",
+            "tnode": "168",
+            "distance": "0.158",
+            "price": "39.500"
+        },
+        {
+            "id": "id_168-id_169",
+            "fnode": "168",
+            "tnode": "169",
+            "distance": "0.126",
+            "price": "31.500"
+        }
+    ]
+}

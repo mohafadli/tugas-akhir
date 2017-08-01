@@ -1,0 +1,29 @@
+17/07/2017
+rencananya akan membuat sebuah struktur data yang akan menghubungkan antara angkot dan objek(sekolah/tempat wisata/dll) sebgai berikut. 
+relasi yang akan dibuat adalah dari 1 ke banyak yaitu 1 objek(sekolah/tempat wisata/dll). 
+
+relasi 1 to 1 = jika 1 objek yang memiliki nominal harga terhubung oleh hanya 1 transportasi umum.
+
+relasi 1 to many = asumsi jika 1 objek terhubung oleh banyak transportasi umum.
+
+relasi many to 1 = jika ada banyak jalur angkot terhubung pada 1 objek.
+
+relasi many to many = jika ada banyak jalur angkot terhubung pada banyak objek. 
+
+relasi terpilih yaitu many to one
+
+tabel transportasi.
+penjelasan atribut : 
+1. no = nomor tabel
+2. jenis = jenis objek apakah itu kendaraan bertipe angkot atau bukan.
+3. jurusan =  jurusan yang akan dituju.
+4. lat
+5. lon
+6. 
+
+tanyakan = 
+1. apa boleh kalau pakai asumsi harga per km ? 
+karena angkot memiliki harga tetap Rp. 3000 di setiap patokan hingga mencapai maksimal Rp.10000 dari terminal awal hingga akhir. 
+
+Contoh pada rute margahayu - ledeng itu dari terminal margahayu hingga BIP harganya 3000. kemudian dari BIP dengan jarak yang sama mulai berlaku tarif 3000 baru, jika ada penumpang naik dari terminal A maka kelipatannya bertambah menjadi 6000. sehingga Rp 3000 / .. km
+
